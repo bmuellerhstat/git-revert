@@ -13,12 +13,12 @@ Use `git revert ___` (see notes for specific command) to bring back all of the d
 
 ---
 
-`website.md`
+`restaurant.html`
 
 Imagine if we were working on a website for a restaurant, and we...
 * Add the bare minimum of the whole website with a blue color scheme
   * _This part is already done_
-* Change the color scheme from blues to greens (hint: there are 6 blues)
+* Change the color scheme from blues to greens (CSS _and_ text).
   * **Do this, then add+commit**
 * Delete all images because they're copyrighted
   * **Do this, then add+commit**
